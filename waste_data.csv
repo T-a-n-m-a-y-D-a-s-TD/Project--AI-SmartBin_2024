@@ -1,0 +1,9 @@
+Date,Time,Predicted Waste Type,Moisture Level,Moisture Match Status
+2024-12-03,12:59:28,Organic,12,New Moisture Level
+2024-12-03,13:00:08,Inorganic,0,No Moisture Detected
+2024-12-03,13:01:20,Organic,12,Moisture Level Matched
+2024-12-03,13:01:51,Inorganic,0,No Moisture Detected
+2024-12-03,13:03:11,Organic,12,Moisture Level Matched
+2024-12-03,13:03:28,Inorganic,0,No Moisture Detected
+2024-12-03,13:05:09,Organic,12,Moisture Level Matched
+2024-12-03,13:05:26,Inorganic,0,No Moisture Detected
